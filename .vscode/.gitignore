@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / logs
+*.log
+
+# Optional: ignore local dataset if you don't want to commit it
+# Uncomment the next line to avoid committing large CSVs
+# *.csv
